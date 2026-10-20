@@ -43,6 +43,8 @@ Fixed_accuracy.png </br>
 Fine_tuning_loss.png </br>
 Fixed_loss.png 
 
-## Conclusions
-
+## ✔️ Conclusions
+1. **Accuracy**: The fine-tuned model reached a final validation accuracy of 88%, outperforming the fixed feature extractor (85%) by 3 percentage points </br>
+2. **Overfitting**: The training accuracy for both models was greater than the validation accuracy and reached 100% indicating overfitting. Adding regularization techniques such as data augmentation or early stopping could minimize this </br>
+3. **Convergence speed**: The fixed feature extractor model converged faster with validation loss stabilizing by the epoch 3 whereas for the fine-tuned model, it stabilized by epoch 5
 
