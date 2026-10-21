@@ -31,11 +31,6 @@ The 5-flowers dataset contains around 4000 images of sunflowers, roses, daisies,
 ## 🗒️ Setup
 **Weights & Biases account**: The training sweep is tracked using [Weights & Biases](https://wandb.ai/site/), a platform for experiment tracking, visualization, and hyperparameter optimization. A W&B account is required to run and monitor the training sweep.
 
- **Requirements:** </br>
-```bash
-pip install -r requirements.txt
-```
-
 **Usage:** </br>
 Fine-tuned model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Aaisha0410/Image_classification/blob/main/Fine_tuning.ipynb) </br>
 Fixed-feature model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Aaisha0410/Image_classification/blob/main/Fixed_feature.ipynb) 
