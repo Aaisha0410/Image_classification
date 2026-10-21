@@ -36,6 +36,10 @@ The 5-flowers dataset contains around 4000 images of sunflowers, roses, daisies,
 pip install -r requirements.txt
 ```
 
+**Usage:** </br>
+Fine-tuned model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Aaisha0410/Image_classification/blob/main/Fine_tuning.ipynb) </br>
+Fixed-feature model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Aaisha0410/Image_classification/blob/main/Fixed_feature.ipynb) 
+
 ## 📈 Comparison of model performance 
 Graphs computing the training and validation accuracies and losses obtained from both methods can be found in the output folder. </br>
 Fine_tuning_accuracy.png </br>
